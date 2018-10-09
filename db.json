@@ -2,7 +2,83 @@
   "movies": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James Cameron"
+    },
+    {
+      "id": 2,
+      "title": "Independence Day",
+      "year": 1996,
+      "runtime": "145 min",
+      "genre": "Sci-Fi",
+      "director": "Roland Emmerich"
+    },
+    {
+      "id": 3,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "runtime": "127 min",
+      "genre": "Adventure, Sci-Fi, Thriller",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 4,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 5,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 6,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 7,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 8,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 9,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
+    },
+    {
+      "id": 10,
+      "title": "Avatar",
+      "year": 2009,
+      "runtime": "162 min",
+      "genre": "Fantasy",
+      "director": "James cameron"
     }
   ],
   "profile": {
