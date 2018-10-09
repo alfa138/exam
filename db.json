@@ -42,43 +42,43 @@
     },
     {
       "id": 6,
-      "title": "Avatar",
-      "year": 2009,
-      "runtime": "162 min",
-      "genre": "Fantasy",
-      "director": "James cameron"
+      "title": "@@THE avengerS!!",
+      "year": 2012,
+      "runtime": "143 min",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Joss Whedon"
     },
     {
       "id": 7,
-      "title": "Avatar",
-      "year": 2009,
-      "runtime": "162 min",
-      "genre": "Fantasy",
-      "director": "James cameron"
+      "title": "MAN of Steel",
+      "year": 2013,
+      "runtime": "143 min",
+      "genre": " Action, Adventure",
+      "director": "Zack Snyder"
     },
     {
       "id": 8,
-      "title": "Avatar",
-      "year": 2009,
-      "runtime": "162 min",
-      "genre": "Fantasy",
-      "director": "James cameron"
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "runtime": "110 min",
+      "genre": "Action, Adventure, Thriller",
+      "director": "Brian De Palma"
     },
     {
       "id": 9,
-      "title": "Avatar",
-      "year": 2009,
-      "runtime": "162 min",
-      "genre": "Fantasy",
-      "director": "James cameron"
+      "title": "Wonder Woman",
+      "year": 2017,
+      "runtime": "141 min",
+      "genre": "Fantasy, Sci-Fi, War",
+      "director": "Patty Jenkins"
     },
     {
       "id": 10,
-      "title": "Avatar",
-      "year": 2009,
-      "runtime": "162 min",
-      "genre": "Fantasy",
-      "director": "James cameron"
+      "title": "Venom",
+      "year": 2018,
+      "runtime": "112 min",
+      "genre": "Action, Horror",
+      "director": "Ruben Fleischer"
     }
   ],
   "profile": {
